@@ -457,13 +457,13 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
                     InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                 ],
-                [InlineKeyboardButton(text="Support Channel", url="https://t.me/Vckyouuu")],
+                [InlineKeyboardButton(text="Support Channel", url="https://t.me/yudmusic")],
                 [InlineKeyboardButton(text="Close", callback_data="cls")],
             ]
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/f6086f8909fbfeb0844f2.png"
+        thumb_name = "https://telegra.ph/file/3db70390937823dbdcbd8.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -564,7 +564,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Geez-MusicProject"
+        user.first_name = "Yud-Music"
     usar = user
     wew = usar.id
     try:
@@ -687,7 +687,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Geez-MusicProject"
+        user.first_name = "Yud-Music"
     usar = user
     wew = usar.id
     try:
