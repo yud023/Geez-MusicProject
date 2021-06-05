@@ -1,10 +1,10 @@
-<h1 align="centre">🎶 Geez-MusicProject</h1>
+<h1 align="centre">🎶 Yud-Music</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
+#### POWERED BY [Yud-Music](https://github.com/yud023/Yud-Music)
 
 <p align="center">
-  <img src="https://telegra.ph/file/5faef2abd77096b49f12c.jpg">
+  <img src="https://telegra.ph/file/3db70390937823dbdcbd8.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -23,22 +23,22 @@
 
 ### Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/Geez-MusicProject)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yud-023/Yud-Music)
 
 get pyrogram string session or [repl](https://replit.com/@Vckyou/Geez-String-Session#main.py) Choose P Don't T
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Vckyou/Geez-MusicProject
-$ cd Geez-MusicProject
+$ git clone https://github.com/yud023/Yud-Music
+$ cd Yud-Music
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m Geez-MusicProject
+$ python(3) -m Yud-Music
 ```
 
 ### Commands for Group 🛠
