@@ -73,7 +73,7 @@ $ python(3) -m Yud-Music
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork YudMusic won't exist. 
-Yud-Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @yudmusic users
+Yud-Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @GeezManage users
 
 #### Contribtors
 - [InukaASiTH](https://github.com/InukaAsith): Dev
