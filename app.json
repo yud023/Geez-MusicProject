@@ -2,7 +2,7 @@
   "name": "Yud-Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/yud023/Geez-MusicProject",
+  "repository": "https://github.com/yud023/Yud-Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -39,7 +39,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/96ce42b289252717b57f5.jpg"
+      "value": "https://telegra.ph/file/3db70390937823dbdcbd8.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Untuk Melihat Update an Di Channel @ [Skipp Aja Kalo Lu Gapunya].",
